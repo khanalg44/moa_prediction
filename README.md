@@ -1,3 +1,3 @@
-# Moa prediction 
+# Mechanisms of Action (MoA) Prediction
 
-https://www.kaggle.com/c/lish-moa/data
+[Kaggle Cometetion](https://www.kaggle.com/c/lish-moa/data)

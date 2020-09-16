@@ -1,7 +1,7 @@
 # Mechanisms of Action (MoA) Prediction
 
 
-[Kaggle Cometetion](https://www.kaggle.com/c/lish-moa/data)
+[Kaggle Competition](https://www.kaggle.com/c/lish-moa/data)
 
 In order to maintain consistency, please download all the datafiles from [Kaggle](https://www.kaggle.com/c/lish-moa/data) and put them in a local deirectory `datasets`.
 

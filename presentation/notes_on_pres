@@ -1,0 +1,13 @@
+
+team 4: Our Rutgers group involving Nikhil, Elaad, Kyle and Diptanil
+    
+    Using the text and description of books to explore several classifications
+They did NLP on text from different books.  and tried to predict the author of the books based on the different snippent of the books.
+
+team 6: The Miss Chanandler Bongs
+        teams: Brooke Ogrodnik, Laura Fernandez , Daniel Cisneros, Atithi Acharya, from Ohio State
+    To look at the episode ratings from Friends on imdb and see if there are any correlations we can find (like the worst the rating maybe the more Ross is in it). It would also be interesting to find some association rules that come up in the episodes. Link to the repo with the scripts:  https://fangj.github.io/friends/
+
+
+team 22: 
+    They did time series analysis of the Disney world wait time.

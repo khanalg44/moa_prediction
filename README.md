@@ -1,10 +1,10 @@
-# Mechanisms of Action (MoA) Prediction
+# gretta-grettas
+A repo for our data analysis project at Erdos Institute's coding bootcamp
+
+Team 8: Members:
+* M. Yarkın Ergin, m.yarkin.ergin@gmail.com
+* Plamen Kamenov,  plamen0606@gmail.com
+* Ghanashyam Khanal, khanalg44@gmail.com
+* Duygu Yılmaz, duyguyilmaz@windowslive.com
 
 
-[Kaggle Competition](https://www.kaggle.com/c/lish-moa/data)
-
-In order to maintain consistency, please download all the datafiles from [Kaggle](https://www.kaggle.com/c/lish-moa/data) and put them in a local deirectory `datasets`.
-
-I didn't push the data to git as the file size was too big (~300MB).
-
- Also if you don't want to push your `datasets` directory, create a file `.gitignore` and put `datasets` in that file that will force Git to ignore that directory

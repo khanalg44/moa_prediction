@@ -1,0 +1,4 @@
+Air Quality Open Data Platform
+Worldwide COVID-19 dataset
+
+curl --compressed -o waqi-covid-2020.csv   https://aqicn.org/data-platform/covid19/report/14536-b4389fc1/2020
